@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/penguin-waddle/FriendFace/assets/123434744/8a729d80-1084-4468-b614-f2fab4118c52" alt="FriendFace App Demo" width="300" />
+      <img src="https://github.com/penguin-waddle/FriendFace/assets/123434744/8a729d80-1084-4468-b614-f2fab4118c52" alt="FriendFace App Demo" width="2100" />
     </td>
     <td>
       FriendFace is a social media app centered on networking and community building. It's designed to help users connect with friends and colleagues, view detailed profiles, and stay up to date with their network. The app fetches and parses data, displaying it in a user-friendly interface.
